@@ -1,0 +1,55 @@
+Sintel The Game 
+Alpha 0.2
+
+Changelog
+
+------------------------------------------------
+New in 0.2
+
+- New Docks Level
+- New Desert Level
+- Added Tundra Level
+- Added torch item
+- Revamped combat
+- Enemy AI reworked
+- Added Wing Nip enemy
+- Added Rock Snake enemy
+- Reworked & revamped HUD
+- New credits screen
+- Reworked opening
+- Difficulty setting now works
+- The game now has a proper font
+- Added building LOD models
+- Optimized buildings + assets with collision meshes
+- The game will detect desktop resolution on first run and use that - custom resolutions still work
+- The TAB key now displays the current objective
+- Added MUCH better camera collision
+- Added SSAO & option in the menu
+- Camera no longer goes through buildings
+- Can take a screenshot with F12
+- Small tweaks to the menu
+- Menu XML loading optimized
+- Increased quality of intro videos
+- Got rid of unneccessary collision in the HUD
+- Added support for more screen resolutions
+- Added fade-in & out functionality to the HUD
+- Got rid of old unused textures + assets
+- Added <include film> tag to menu XML
+- Menu now loads button text via XML
+- Made the menu font less pixely
+- Slowed down camera zoom
+- Cleaned up loading screen code
+- Dialog text is centered better
+- Updated extras menu - more dynamic
+- Pressing any key now skips the whole menu intro
+- Added fade out to the menu
+- Windows stand-alone now launches with console for debug purposes
+- Cleaned up player logic
+
+-------------------------------------------------
+New in 0.1.1
+
+- Fixed XML reference issue in the menu on Linux
+- Added music to the docks level
+- Fixed code error with the HUD
+- Added sintel_the_game.blend
