@@ -1,0 +1,37 @@
+<data>
+	<section id="developers" title="A Game By">
+		<name>Jonathan Buresh</name>
+		<name>David Jogoo</name>
+		<name>Noah Summers</name>
+		<name>Malcolm Corliss</name>
+		<name>James Raymond</name>
+	</section>
+	<section id="music" title="With Music By">
+		<name>Philippe Rey</name>
+	</section>
+	<section id="special" title="Special Thanks">
+		<name>David Barker</name>
+		<name>Pasha Sadikov</name>
+	</section>
+	<section id="support" title="With Support from">
+		<name>Champlain College FIREHOSE</name>
+		<name>Christopher Grebs</name>
+		<name>Matias Cervino</name>
+		<name>Denis A. Zunon</name>
+		<name>Johannes Schwartz</name>
+		<name>Leandro da Silva</name>
+		<name>Kevin Weir</name>
+		<name>Simone Borges</name>
+		<name>Rolf Gottschling</name>
+		<name>Colin Levy</name>
+		<name>David Revoy</name>
+		<name>Mike Pan</name>
+		<name>Dalai Felinto</name>
+		<name>Jake Centofranchi</name>
+		<name>Andrew Clifford</name>
+		<name>Thomas Francis</name>
+		<name>Keith N. Addams</name>
+	</section>
+	<section id="bye" title="Thanks!">
+	</section>
+</data>

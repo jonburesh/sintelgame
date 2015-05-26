@@ -1,0 +1,114 @@
+<data>
+  <quest id="docks">
+	<objective id="O_0">
+      <message>Talk to Arya</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </objective>
+	<objective id="O_1">
+      <message>Unload the ships</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </objective>
+	<objective id="O_2">
+      <message>Get rid of the bugs</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </objective>
+    <dialog id="D_0" speaker="Arya">
+      <message>Sintel! Over here!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_1" speaker="Arya">
+      <message>Walk with me. The bandits will be here shortly. Luckily, I have a plan.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_2" speaker="Arya">
+      <message>The bandits are trying to starve the city by cutting off our food supply.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_3" speaker="Arya">
+      <message>We need to quickly unload the food, and send the ships on thier way.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_4" speaker="Arya">
+      <message>If we are lucky, the bandits might chase them out of the harbor - not noticing we unloaded the ships.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_5" speaker="Arya">
+      <message>Sintel, I need you to use the cranes to unload the food from both ships.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_6" speaker="Arya">
+      <message>Quickly Sintel! We don't have much time!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_7" speaker="Sintel">
+      <message>Bugs!? I'll have to deal with them first.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+	</dialog>
+	<dialog id="D_8" speaker="Sintel">
+      <message>That was the last of them. Now to unload the ships...</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+	</dialog>
+	<dialog id="D_9" speaker="Sintel">
+      <message>One down, one to go.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+	</dialog>
+	<dialog id="D_10" speaker="Captain">
+      <message>Hurry Sintel! This ship can't stay docked much longer!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_11" speaker="Captain">
+      <message>The bandits are closing in... Get this ship ready to sail!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_12" speaker="Captain">
+      <message>Hoist anchor and set sail men, we're off!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_13" speaker="Arya">
+      <message>Here they come!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_14" speaker="Arya">
+      <message>Wow. Looks like I underestimated you kid.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_15" speaker="Arya">
+      <message>You did great. Almost got them all.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_16" speaker="Arya">
+      <message>Looks like the bandits didn't notice us unload the ships.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_17" speaker="Arya">
+      <message>Looks like we may have a chance to beat these guys after all.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+	<dialog id="D_18" speaker="Arya">
+      <message>It won't be easy, but I think we can beat them. We'll have to give it our all.</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+  </quest>
+</data>

@@ -1,0 +1,24 @@
+<data>
+  <quest id="dream">
+    <dialog id="D_0" speaker="Sintel">
+      <message>I must have been knocked out...</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_1" speaker="Sintel">
+      <message>Scales?</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_2" speaker="Sintel">
+      <message>Wait!</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_3" speaker="Sintel">
+      <message>Scales...</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+  </quest>
+</data>

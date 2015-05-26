@@ -1,0 +1,10 @@
+<data>
+	<version>Alpha 0.2</version>
+	<notice>This game is a work in progress</notice>
+	<include_film>True</include_film>
+	<resume>Resume</resume>
+	<new>New Game</new>
+	<extra>Extras</extra>
+	<options>Options</options>
+	<exit>Exit</exit>
+</data>

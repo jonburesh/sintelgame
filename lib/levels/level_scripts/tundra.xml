@@ -1,0 +1,19 @@
+<data>
+  <quest id="tundra">
+    <dialog id="D_0" speaker="Game">
+      <message>Press 'F' to ignite the torch</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_1" speaker="Game">
+      <message>Hold left click to ignite nearby flammable objects</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+    <dialog id="D_2" speaker="Game">
+      <message>Collect coal to refill the torch fuel</message>
+      <sound_file>None</sound_file>
+      <command>None</command>
+    </dialog>
+  </quest>
+</data>
